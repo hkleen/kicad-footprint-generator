@@ -19,7 +19,7 @@ class seriesParams():
     plug_seperator_distance = 1.5
 
     silk_pad_clearance = 0.15
-    mount_screw_info = "ISO 1481-ST 2.2x4.5 C or ISO 7049-ST 2.2x4.5 C (http://www.fasteners.eu/standards/ISO/7049/)"
+    mount_screw_info = ""
 
     # Connector voltage ratings:
     # Rated voltage (III/3) 1000 V
